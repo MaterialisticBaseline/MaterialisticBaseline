@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm a small developer currently developing a discord bot in python and learning lua.
 
 - 🌌 I'm a roblox script developer, I'm still learning lua tho
 
